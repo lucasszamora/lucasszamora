@@ -16,10 +16,10 @@ The site is based on a presentation model of <strong>a greengocers chain</strong
 
 Here is the <a href="https://github.com/lucasszamora/La-Amistad-Project">Link for this project.</a>
 
-<img src="./assets/amis1.jpg" width="200px">
-<img src="./assets/amis2.jpg" width="200px">
-<img src="./assets/amis3.jpg" width="200px">
-<img src="./assets/amis4.jpg" width="200px">
+<img src="./assets/amis1.jpeg" width="200px">
+<img src="./assets/amis2.jpeg" width="200px">
+<img src="./assets/amis3.jpeg" width="200px">
+<img src="./assets/amis4.jpeg" width="200px">
 
 ### 06/2022, Windbnb
 
@@ -36,10 +36,10 @@ Here are some <i>features</i> that this project has:<br>
 
 Here is the <a href="https://github.com/lucasszamora/proyecto-final-JS-Zamora">Link for this project.</a>
 
-<img src="./assets/wind1.jpg" width="200px">
-<img src="./assets/wind2.jpg" width="200px">
-<img src="./assets/wind3.jpg" width="200px">
-<img src="./assets/wind4.jpg" width="200px">
+<img src="./assets/wind1.jpeg" width="200px">
+<img src="./assets/wind2.jpeg" width="200px">
+<img src="./assets/wind3.jpeg" width="200px">
+<img src="./assets/wind4.jpeg" width="200px">
 
 ## If you want to contact me:<br>
 <strong>Mail: </strong><a href="mailto:lucaszam00@hotmail.com"><i>lucaszam00@hotmail.com</i></a><br>
