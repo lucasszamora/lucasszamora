@@ -5,7 +5,7 @@
   
 I've worked as an administrative for four years, so I learned to be <strong>organized, effective, problem-solving</strong> & also know which things I have to <strong>prioritize</strong> the most, so the job can be done <strong>precisely and on time.</strong></p>
 
-<h4>As for me, I would like to be part of a team where I can keep growing my programming skills, learn from them, and keep developing my stack (Also I want to help them as much as I can too, and bring new ideas to the team.)</h4>
+<h4>As for me, while I'm still learning (before CoderHouse, now I'm trying to apply for SoyHenry.), I would like to be part of a team where I can keep growing my programming skills, learn from them, and keep developing my stack (Also I want to help them as much as I can too, and bring new ideas to the team.)</h4>
 
 # PROJECTS
 
